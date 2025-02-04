@@ -1,4 +1,4 @@
-module lab2(
+module project2(
        input   a,
        input   b,
        input   c,
@@ -21,5 +21,3 @@ module lab2(
        assign y = or_out & xor_out;
 
 endmodule
-
-    
